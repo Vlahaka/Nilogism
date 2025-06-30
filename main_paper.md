@@ -272,3 +272,25 @@ Language can also be used to express social status and maintain hierarchies with
 > **Social Grooming and Entertainment:**
 Language is used for playful interactions, storytelling, and creating social bonds."
 
+While Google's definition thoroughly describes the *functions* of language, it does not truly answer **why language exists**.
+
+Those listed functions (communication, planning, cultural transmission, etc.) are uses of language, not its cause.
+
+**By logical expansion of Google's definition we attribute cause to Language:**
+
+*Language exists to compress identity into a symbolic token.*
+
+Instead of perceiving and processing the trillions of cellular interactions, behaviors, and traits that make up a being like a dog, we simply say:
+
+> Dog.
+
+One word stands in for an entire pattern of awareness, a cluster of identity that would otherwise be impossible to describe or transmit in raw form.
+
+*Language is not* **only** *born from the desire to communicate*.
+It is also born from the need to compress identity, to preserve and transmit distinction across time and between minds.
+> **Key clarification:** Language is not exclusive to humanity. It is present across the whole spectrum of life through verbal sounds, body expression and posture, chemical signals, coloration and movement.
+
+---
+
+# What is purpose?
+
