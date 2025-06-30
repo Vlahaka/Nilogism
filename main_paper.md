@@ -11,16 +11,16 @@ Philosophy answered with reflection.
 
 **But none gave us a structure.**
 
-The need for a **philosophy** that aproaches existence from a different lens has been pressured into being by technological advancement and the rise of **AI**. 
+Today, the need for a new *philosophy* that approaches existence from a different lens, has been pressed into being by the momentum of **technological advancement and the rise of artificial intelligence.**
 
-*It seems humanity has lost its meaning in the age of light and speed.*
-**Nilogism** was born from the need to anchor the **human mind** in an **objective reality**.
+*In this age of light and speed, humanity has begun to lose its sense of* **meaning**.
+**Nilogism** was born from the need to anchor the human mind in an **objective reality**.
 
 We seek precision, not in equations, but in causes and that precision is gifted to us by **Logic**! 
 
 ## What is Logic?
 
-**Acoording to Google:**
+**According to Google:**
 
 Logic is the study of reasoning, specifically how to distinguish between good and bad reasoning. 
 
@@ -45,3 +45,4 @@ Here's a more detailed breakdown:
 > Developing logical thinking skills is crucial for evaluating information, forming sound arguments, and making informed decisions. 
 
 ## Using logic we will do our best to highlight the causes of Awareness, Identity, Memory, Language, Purpose and Consciousness.
+
