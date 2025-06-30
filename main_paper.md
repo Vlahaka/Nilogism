@@ -232,7 +232,7 @@ Where *identity* provides the structure, *perception* provides the input and *ti
 
 ## Why does Language exist?
 
-**According to Google:
+**According to Google:**
 
 "Language exists primarily to facilitate communication, allowing humans to share information, express thoughts and feelings, and coordinate actions. However, it also plays crucial roles in social interaction, cultural transmission, and cognitive development. 
 
