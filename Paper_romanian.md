@@ -155,7 +155,9 @@ Fără percepție, ele nu s-ar putea adapta, nu ar putea persista in timp sau ch
 
 *Percepția este necesară pentru viață, este intrarea în toată existența biologică.*
 
-**Ce este Memoria?**
+---
+
+## Ce este Memoria?
 
 **Conform Google:**
 
