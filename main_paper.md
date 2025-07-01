@@ -428,3 +428,9 @@ These three give birth to the entire emotional spectrum: happiness, ambition, ex
 > **We exist because otherwise there is nothing.**
 
 **"Nothing" is the absolute absence (no time, no motion, no entropy, no awareness) and not even the ability of self-observation.**
+
+
+**Ionut Daniel Vlad**
+> 30th of June 2025.
+
+---
