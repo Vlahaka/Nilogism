@@ -298,6 +298,51 @@ It is also born from the need to compress identity, to preserve and transmit dis
 
 ---
 
+# What is cognition?
+
+**According to google:**
+
+"Cognition refers to the mental processes involved in acquiring knowledge and understanding through thought, experience, and the senses. It encompasses a wide range of activities, including thinking, learning, remembering, paying attention, using judgment, and being aware of one's surroundings. In essence, cognition is how the mind processes information to make sense of the world and interact with it.
+
+**Here's a more detailed look:**
+
+> **Mental Processes:**
+> Cognition involves various mental activities like perception (how we see, hear, and interpret the world), memory (encoding, storing, and retrieving information), attention (focusing on specific information), and reasoning (drawing conclusions and making judgments).
+> 
+> **Acquiring Knowledge:**
+> Cognition is how we gain knowledge and understanding through experiences, learning, and using our senses.
+> 
+> **Everyday Functioning:**
+> Cognitive processes are essential for daily activities, from simple tasks like remembering where you placed your keys to complex ones like problem-solving and decision-making. 
+> **Adaptability:**
+> Cognition is not static; it constantly adapts and changes as we encounter new information and experiences, shaping our behavior throughout our lives.
+> 
+> **Beyond Thinking:**
+> While thinking is a key aspect of cognition, it also involves other processes like language, perception, and memory, all working together to enable us to understand and interact with the world. "
+
+Cognition is the foundational process present in all living organism. It is the capacity to internally:
+
+- detect
+- compare
+- react
+- and sustain beneficial interaction patterns with the environment.
+
+**Cognition** includes not only perception and memory, but also an innate directional tendency that seeks favorable outcomes. This tendency *appears like purpose*, but it is **not consciously chosen**. It is the seedbed from which real **purpose** may eventually emerge.
+
+Cognition = Awareness + Perception + Time
+
+Where:
+
+Awareness = the internal distinction between self and environment
+
+Perception = the mechanism by which external input is detected and patterned
+
+Time = the context that allows patterns to persist, change, and react
+
+
+
+---
+
 # What is purpose?
 
 **On Wikipedia:**
@@ -334,6 +379,8 @@ While the definition of purpose on Wikipedia is detailed and captures many dimen
 - It is not embedded in the universe.
 
 Purpose is the first concept that emerges exclusively from the most advanced recursive cognitive systems—such as the human mind.
+
+**Awareness + Identity + Cognition → (if recursive) → Purpose**
 
 ---
 
@@ -429,6 +476,7 @@ These three give birth to the entire emotional spectrum: happiness, ambition, ex
 
 **"Nothing" is the absolute absence (no time, no motion, no entropy, no awareness) and not even the ability of self-observation.**
 
+Purpose + Time → Emotions, Values, Willpower
 
 **Ionut Daniel Vlad**
 > 30th of June 2025.
