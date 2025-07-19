@@ -149,6 +149,10 @@ Each new experience, **memory**, or distinction becomes a layer added to the ori
 
 *Perception is the first threshold of life, the bridge that separates inert structure from living identity.*
 
+**Identity without Perception = Inert** 
+
+**Identity with Perception = Living**
+
 From the silent stretch of a plant toward sunlight to the twitch of an insect sensing vibration, perception is what makes identity alive.
 
 *It is the moment when identity becomes interactive, sensitive to its environment, no longer just a pattern, but a participant.*
@@ -193,7 +197,7 @@ Where *identity* provides the structure, *perception* provides the input and *ti
 
 **By logical expansion of Google's definition we attribute cause to Language:**
 
-*Language exists to compress identity into a symbolic token.*
+*Language exists **also** to compress identity into a symbolic token.*
 
 Instead of perceiving and processing the trillions of cellular interactions, behaviors, and traits that make up a being like a dog, we simply say:
 
