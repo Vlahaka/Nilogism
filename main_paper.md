@@ -87,6 +87,10 @@ Distinction when  subjected to time, it can persist, shift, and relate to other 
 
 **Awareness = Distinction + Boundary + Time**.
 
+**For example:**
+*An atom is aware because it has a limit, it has mass, it has a shape, it is distinct from other atoms and its environment, and it has a within and without*. **This does not mean an atom is aware as in alive, but rather that it holds potential for awareness.**
+
+
 This new view of awareness is important because it grounds identity not in vague mental states or subjective feelings, but in clear structural logic. By defining awareness as the capacity for distinction within boundary and time, we gain a universal, testable foundation for understanding life, selfhood, and even intelligence, whether human, artificial, or cosmic. 
 
 It frees us from paradoxes of consciousness and anchors reality in a language both precise and shared. 
