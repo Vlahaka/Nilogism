@@ -234,47 +234,7 @@ Where *identity* provides the structure, *perception* provides the input and *ti
 
 **According to Google:**
 
-"Language exists primarily to facilitate communication, allowing humans to share information, express thoughts and feelings, and coordinate actions. However, it also plays crucial roles in social interaction, cultural transmission, and cognitive development. 
-
-**Here's a more detailed look at the functions of language:**
-
-**1. Communication:**
-
-> **Information Transfer:**
-Language enables the efficient transmission of knowledge, ideas, and experiences from one person to
-another.
-> 
-> **Social Interaction:**
-It facilitates social bonding, relationship building, and group cohesion through shared language and communication.
-> 
-> **Coordination and Planning:**
-Language allows humans to plan and coordinate complex activities, such as hunting, building, or engaging in social events. 
-
-**2. Cognitive Development:**
-
-> **Thought and Reasoning:**
-Language is closely linked to cognitive processes, shaping how humans think, reason, and understand the world.
-> 
-> **"Theory of Mind":**
-Language helps develop the ability to understand others' perspectives and mental states, crucial for social interaction and cooperation.
->  
-> **Cultural Transmission:**
-Language is the primary tool for transmitting cultural knowledge, values, and traditions across generations. 
-
-**3. Social and Cultural Functions:**
-
-> **Group Identity:**
-Language can be a powerful marker of group identity and belonging, distinguishing one social group from another.
-> 
-> **Social Stratification:**
-Language can also be used to express social status and maintain hierarchies within a society.
-> 
-> **Social Grooming and Entertainment:**
-Language is used for playful interactions, storytelling, and creating social bonds."
-
-While Google's definition thoroughly describes the *functions* of language, it does not truly answer **why language exists**.
-
-Those listed functions (communication, planning, cultural transmission, etc.) are uses of language, not its cause.
+> "Language exists primarily to facilitate communication, allowing humans to share information, express thoughts and feelings, and coordinate actions. However, it also plays crucial roles in social interaction, cultural transmission, and cognitive development."
 
 **By logical expansion of Google's definition we attribute cause to Language:**
 
@@ -302,23 +262,7 @@ It is also born from the need to compress identity, to preserve and transmit dis
 
 **According to google:**
 
-"Cognition refers to the mental processes involved in acquiring knowledge and understanding through thought, experience, and the senses. It encompasses a wide range of activities, including thinking, learning, remembering, paying attention, using judgment, and being aware of one's surroundings. In essence, cognition is how the mind processes information to make sense of the world and interact with it.
-
-**Here's a more detailed look:**
-
-> **Mental Processes:**
-> Cognition involves various mental activities like perception (how we see, hear, and interpret the world), memory (encoding, storing, and retrieving information), attention (focusing on specific information), and reasoning (drawing conclusions and making judgments).
-> 
-> **Acquiring Knowledge:**
-> Cognition is how we gain knowledge and understanding through experiences, learning, and using our senses.
-> 
-> **Everyday Functioning:**
-> Cognitive processes are essential for daily activities, from simple tasks like remembering where you placed your keys to complex ones like problem-solving and decision-making. 
-> **Adaptability:**
-> Cognition is not static; it constantly adapts and changes as we encounter new information and experiences, shaping our behavior throughout our lives.
-> 
-> **Beyond Thinking:**
-> While thinking is a key aspect of cognition, it also involves other processes like language, perception, and memory, all working together to enable us to understand and interact with the world. "
+> "Cognition refers to the mental processes involved in acquiring knowledge and understanding through thought, experience, and the senses. It encompasses a wide range of activities, including thinking, learning, remembering, paying attention, using judgment, and being aware of one's surroundings. In essence, cognition is how the mind processes information to make sense of the world and interact with it."
 
 Cognition is the foundational process present in all living organism. It is the capacity to internally:
 
@@ -329,45 +273,17 @@ Cognition is the foundational process present in all living organism. It is the 
 
 **Cognition** includes not only perception and memory, but also an innate directional tendency that seeks favorable outcomes. This tendency *appears like purpose*, but it is **not consciously chosen**. It is the seedbed from which real **purpose** may eventually emerge.
 
-Cognition = Awareness + Perception + Time
+**Therefore:**
 
-Where:
-
-Awareness = the internal distinction between self and environment
-
-Perception = the mechanism by which external input is detected and patterned
-
-Time = the context that allows patterns to persist, change, and react
-
-
+**Cognition = Identity + Perception + Memory + Time**
 
 ---
 
-# What is purpose?
+# What is Purpose?
 
 **On Wikipedia:**
 
-"Purpose is the end for which something is done, created or for which it exists. Purpose is an abiding intention to achieve a long-term goal that is both personally meaningful and makes a positive mark on the world. It is part of the topic of intentionality and goal-seeking behavior.
-
-**Related concepts and subjects:**
-
-> **Goal,** a desired result or possible outcome
-> 
-> **Intention,** the state of intending something or the action intended
-> 
-> **Motivation,** a driving factor for actions, willingness, and goals
->
-> **Determination or resolve**
-> 
-> **Meaningful life** — a life of purpose
-> 
-> **Purpose clause,** in grammar a dependent adverbial clause expressing purpose
-> 
-> **Purpose of life,** questions regarding the significance of living or existence in general
-> 
-> **Teleology,** the philosophical attempt to describe things in terms of their apparent purpose or goal
-> 
-> **Teleonomy,** the apparent purposefulness of structures and functions in living organisms"
+> "Purpose is the end for which something is done, created or for which it exists. Purpose is an abiding intention to achieve a long-term goal that is both personally meaningful and makes a positive mark on the world. It is part of the topic of intentionality and goal-seeking behavior."
 
 While the definition of purpose on Wikipedia is detailed and captures many dimensions of the concept, including motivation, intentionality, and teleological structure, it overlooks one critical distinction:
 
