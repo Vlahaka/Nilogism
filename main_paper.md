@@ -230,7 +230,7 @@ Cognition is the foundational process present in all living organism. It is the 
 
 **Therefore:**
 
-**Cognition = Identity + Perception + Memory + Time**
+**Cognition = Identity + Perception + Memory + Language + Time**
 
 ---
 
@@ -285,7 +285,7 @@ Later, this search rises to the forefront of the mind, visible, haunting, but by
 
 **Therefore:**
 
-**Consciousness = Identity + Memory + Language + Cognition + Purpose + Time**
+**Consciousness = Cognition + Purpose + Time** because **Cognition = Identity + Perception + Memory + Language + Time**
 
 **Each element builds upon the last:**
 
